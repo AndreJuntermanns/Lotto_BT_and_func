@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lotto_BT_and_func", "Lotto_BT_and_func\Lotto_BT_and_func.vcxproj", "{255D0832-D481-4C05-8853-3BB9E0D8DC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Headers|x64 = Debug_Headers|x64
+		Debug_Headers|x86 = Debug_Headers|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug_Headers|x64.ActiveCfg = Debug_Headers|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug_Headers|x64.Build.0 = Debug_Headers|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug_Headers|x86.ActiveCfg = Debug_Headers|Win32
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug_Headers|x86.Build.0 = Debug_Headers|Win32
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug|x64.ActiveCfg = Debug|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug|x64.Build.0 = Debug|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Debug|x86.Build.0 = Debug|Win32
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Release|x64.ActiveCfg = Release|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Release|x64.Build.0 = Release|x64
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Release|x86.ActiveCfg = Release|Win32
+		{255D0832-D481-4C05-8853-3BB9E0D8DC9A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C851709-CF31-4445-A7A8-B90262F5145F}
+	EndGlobalSection
+EndGlobal
